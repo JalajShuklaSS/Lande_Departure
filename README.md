@@ -1,5 +1,5 @@
 # LDWS
-Lane departure warning system using python and opencv
+Lane departure warning system using python and openCV
 
 # Usage
 Python version 3
